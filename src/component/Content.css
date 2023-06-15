@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Thai', sans-serif;
+
+}
+
+
+
+section {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+section h1 {
+
+    font-weight: 600 !important;
+
+}
+
+section h4 {
+    margin-bottom: 20px;
+    font-weight: 1000;
+    font-size: 24px;
+}
+
+section p {
+    margin-top: 28px;
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.img-item {
+    margin-top: 90px;
+    text-align: center;
+
+
+
+}
+
+.btn-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-buy {
+    margin: 0 15px;
+    padding: 5px 25px;
+    border-radius: 100px;
+    background-color: #0077ed;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.btn-item a {
+    margin: 0 15px;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.tile-iphone-14-pro {
+    color: #fff;
+}
+
+.bg-iphone-14-pro {
+    background-color: black;
+
+}
+
+.iphone_se {
+
+    background-color: #f8f9fa;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.hero-inline {
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(90deg, #1e3791 0%, #2948b1 40%, #3153c6 55%, #385fda 60%);
+    color: transparent;
+    font-size: 48px;
+    font-weight: 600;
+
+}
+
+.img-item-se {
+    text-align: left;
+
+
+}
+
+.bg-iphone-se {
+    background-color: rgba(237, 237, 237, 0.977);
+
+}
+
+.tlitle-iphone_se {
+    margin-top: 20px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .iphone_se {
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+    .img-item-se {
+        margin-top: 25px;
+        text-align: center;
+
+    }
+
+    .img-item-se img {
+        width: 282px;
+        height: 470px;
+
+    }
+
+    .hero-inline {
+        font-size: 38px;
+    }
+}
+
+@media only screen and (max-width: 825px) {
+
+    .img-item-se {
+        margin-top: 20px;
+        text-align: center;
+    }
+}

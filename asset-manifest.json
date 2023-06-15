@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clone-Website_Apple/static/css/main.614bc3c1.css",
+    "main.js": "/Clone-Website_Apple/static/js/main.bdf088e8.js",
+    "static/js/787.b701888c.chunk.js": "/Clone-Website_Apple/static/js/787.b701888c.chunk.js",
+    "index.html": "/Clone-Website_Apple/index.html",
+    "main.614bc3c1.css.map": "/Clone-Website_Apple/static/css/main.614bc3c1.css.map",
+    "main.bdf088e8.js.map": "/Clone-Website_Apple/static/js/main.bdf088e8.js.map",
+    "787.b701888c.chunk.js.map": "/Clone-Website_Apple/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614bc3c1.css",
+    "static/js/main.bdf088e8.js"
+  ]
+}
